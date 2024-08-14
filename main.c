@@ -1,10 +1,3 @@
-/*
-    TODO:
-        * Ceiling and Floor Casting.
-
-        * Refactor when Finished.
-*/
-
 #include "raylib.h"
 #include "raymath.h"
 
